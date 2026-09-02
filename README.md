@@ -4,7 +4,8 @@ Official repo of TileSAM3 for dropwise condensation segmentation.
 
 ## Datasets
 Both the Low Quality Droplet Dataset (LQDD) and High Quality Droplet Dataset (HQDD) are open access:
-|[LQDD](https://drive.google.com/drive/folders/1nZv3meBD8oM4h-nt6HmWO_LPMpwvaWXR?usp=sharing)|[HQDD](https://drive.google.com/drive/folders/1KtezOJSyhnrzKGK5uSNPEc89IpskY7-1?|usp=sharing)
+
+|[LQDD](https://drive.google.com/drive/folders/1nZv3meBD8oM4h-nt6HmWO_LPMpwvaWXR?usp=sharing)|[HQDD](https://drive.google.com/drive/folders/1KtezOJSyhnrzKGK5uSNPEc89IpskY7-1?usp=sharing)|
 #
 
 ## Usage instructions
