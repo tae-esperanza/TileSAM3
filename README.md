@@ -8,6 +8,10 @@ Both the Low Quality Droplet Dataset (LQDD) and High Quality Droplet Dataset (HQ
 |[LQDD](https://drive.google.com/drive/folders/1nZv3meBD8oM4h-nt6HmWO_LPMpwvaWXR?usp=sharing)|[HQDD](https://drive.google.com/drive/folders/1KtezOJSyhnrzKGK5uSNPEc89IpskY7-1?usp=sharing)|
 #
 
+## Model Weights
+Fine-tuned SAM3 weights are available to use for applications:
+[Trained on Folds 1-4 of LQDD](https://drive.google.com/file/d/13cu06Ubx0C697S8wOn63u0QpUZ-YmlcW/view?usp=sharing)
+
 ## Usage instructions
 
 Install SAM3 repository
